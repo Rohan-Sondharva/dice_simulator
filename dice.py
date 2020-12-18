@@ -1,7 +1,5 @@
 import random
 
-def main():
-
 # All possible dice result.
 dice = ["""
 -------
