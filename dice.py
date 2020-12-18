@@ -1,5 +1,8 @@
 import random
 
+def main():
+
+# All possible dice result.
 dice = ["""
 -------
 |     |
@@ -38,4 +41,6 @@ dice = ["""
 -------
 """]
 
+# Selecting random dice and print it.
 print(f'{random.choice(dice)}')
+
